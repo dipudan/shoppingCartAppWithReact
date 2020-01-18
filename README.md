@@ -1,1 +1,1 @@
-React demo application which simpulate the shopping cart page of an ecommerce appilcation.# shoppingCartAppWithReact
+React demo application which simulate the shopping cart page of an ecommerce appilcation.# shoppingCartAppWithReact
